@@ -41,7 +41,7 @@ Car b miles: 25000
 Identity a != b: true
 ```
 
-## References (APA)
+## References 
 
 Bloch, J. (2018). *Effective Java* (3rd ed.). Addison‑Wesley.
 
